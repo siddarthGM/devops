@@ -1,1 +1,1 @@
-edcho "hello world how are you"
+edcho "hello world hw are you"
